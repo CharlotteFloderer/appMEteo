@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9E96DCD6211C3526006BDDD2 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E96DCD5211C3526006BDDD2 /* API.swift */; };
+		9E96DCD8211C39CC006BDDD2 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E96DCD7211C39CC006BDDD2 /* API.swift */; };
 		9E9B403D211B594B00761AE1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9B403C211B594B00761AE1 /* AppDelegate.swift */; };
 		9E9B4042211B594C00761AE1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E9B4040211B594C00761AE1 /* Main.storyboard */; };
 		9E9B4044211B595000761AE1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E9B4043211B595000761AE1 /* Assets.xcassets */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9E96DCD5211C3526006BDDD2 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		9E96DCD7211C39CC006BDDD2 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = API.swift; path = ../../../../../API.swift; sourceTree = "<group>"; };
 		9E9B4039211B594B00761AE1 /* appMeteo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = appMeteo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E9B403C211B594B00761AE1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9E9B4041211B594C00761AE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		9E96DCD4211C350F006BDDD2 /* ressources */ = {
 			isa = PBXGroup;
 			children = (
-				9E96DCD5211C3526006BDDD2 /* API.swift */,
+				9E96DCD7211C39CC006BDDD2 /* API.swift */,
 			);
 			path = ressources;
 			sourceTree = "<group>";
@@ -183,7 +183,7 @@
 			files = (
 				9E9B4053211B59C500761AE1 /* meteoController.swift in Sources */,
 				9E9B403D211B594B00761AE1 /* AppDelegate.swift in Sources */,
-				9E96DCD6211C3526006BDDD2 /* API.swift in Sources */,
+				9E96DCD8211C39CC006BDDD2 /* API.swift in Sources */,
 				9E9B4055211B5A6800761AE1 /* localisationExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
